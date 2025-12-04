@@ -1,4 +1,4 @@
-# Automatización de Pruebas - Modulo Orgaizaciones
+# Automatización de Pruebas - Modulo Organizaciones
 
 Este proyecto contiene scripts automatizados desarrollados en Java con Selenium y Maven.
 
