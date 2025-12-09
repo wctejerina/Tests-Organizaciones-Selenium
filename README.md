@@ -5,10 +5,15 @@ Este proyecto contiene scripts automatizados desarrollados en Java con Selenium 
 ## Tecnologías
 * Java 25
 * Maven
-* Selenium WebDriver 4.20
+* Selenium 4.20
 * WebDriverManager (Gestión automática de drivers)
 
-## Cómo ejecutar
-Para correr la prueba, descargar la carpeta y dentro usar el siguiente comando en la terminal:
+## Pasos
+Descargar JDK 25 
+Descargar Selenium con pip install (requiere tener Node JS)
+Descargar Maven, agregar la raiz y /bin a las variables del sistema
 
-mvn clean test -Dtest=ORGTEST10412
+## Cómo ejecutar
+Para correr la prueba, descargar la carpeta y dentro de la misma usar el siguiente comando en la terminal:
+
+mvn clean test -Dtest=ORGTEST10412 (Dependiendo del nombre de fichero .java)
