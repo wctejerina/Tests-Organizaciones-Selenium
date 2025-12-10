@@ -9,9 +9,9 @@ Este proyecto contiene scripts automatizados desarrollados en Java con Selenium 
 * WebDriverManager (Gestión automática de drivers)
 
 ## Pasos
-Descargar JDK 25 
-Descargar Selenium con pip install (requiere tener Node JS)
-Descargar Maven, agregar la raiz y /bin a las variables del sistema
+* Descargar JDK 25
+* Descargar Selenium con pip install (requiere tener Node JS)
+* Descargar Maven, agregar la raiz y /bin a las variables del sistema
 
 ## Cómo ejecutar
 Para correr la prueba, descargar la carpeta y dentro de la misma usar el siguiente comando en la terminal:
