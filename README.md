@@ -14,6 +14,6 @@ Este proyecto contiene scripts automatizados desarrollados en Java con Selenium 
 * Descargar Maven, agregar la raiz y /bin a las variables del sistema
 
 ## Cómo ejecutar
-Para correr la prueba, descargar la carpeta y dentro de la misma usar el siguiente comando en la terminal:
+Para correr la prueba, descargar la carpeta y cambiar USUARIO y CONTRASEÑA dentro del codigo .java. Ingresar a la  carpeta (dentro esta /src y pom.xml) y a usar el siguiente comando en la terminal:
 
 mvn clean test -Dtest=ORGTEST10412 (Dependiendo del nombre de fichero .java)
